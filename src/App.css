@@ -1,0 +1,15 @@
+.logoContainer{
+  padding: 0 5%;
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  
+}
+
+.alanLogo{
+  height:20vmin;
+  border-radius: 15%;
+  padding: 0 5%;
+  margin:2% 0;
+}
