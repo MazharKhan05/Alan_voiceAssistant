@@ -1,0 +1,2 @@
+# Alan_voiceAssistant
+This App allows user to get news related to specific Topic and Headline with ease by using Alan voice assistant just by pressing Alan Button at bottom of App to invoke Alan and than Giving him specific commands like 'Give me lastest news..', this will Load a page with all the latest news Feed. This all is made possible using Restful API like Alan API and News API which provide data requested by user instantaneously.
